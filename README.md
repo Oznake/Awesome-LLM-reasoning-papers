@@ -48,15 +48,6 @@ LLMs are advancing from text generation to intelligent reasoning. This list aims
 
 ---
 
-## ⚙️ Reasoning Techniques
-
-- **Prompting**: Zero-shot, few-shot, CoT, Least-to-Most
-- **Planning**: ReAct, Tree-of-Thoughts, Self-Ask
-- **Search**: MCTS, ReST-MCTS*
-- **External Tools**: Calculator, Python interpreter
-- **RL Fine-Tuning**: RLHF, DPO
-
----
 
 ## 🧪 Datasets
 
@@ -69,33 +60,12 @@ LLMs are advancing from text generation to intelligent reasoning. This list aims
 
 ---
 
-## 🧩 Reasoning Types
-
-- Deductive
-- Inductive
-- Commonsense
-- Multi-hop
-- Mathematical
-- Causal
-
----
-
 ## 🧾 Surveys & Reviews
 
 - [Large Language Models for Mathematical Reasoning](https://arxiv.org/abs/2402.00157)
 - [Are NLP Models Really Able to Solve Simple Math Word Problems?](https://arxiv.org/abs/2103.07191)
 - [Learning by Analogy: Diverse Math Word Problem Generation](https://arxiv.org/abs/2306.09064)
 - [Systematic Evaluation of Chain-of-Thought Prompting](https://arxiv.org/abs/2309.00843)
-
----
-
-## 🌍 Real-World Applications
-
-- **Education**: AI tutors, math assistants
-- **Search Engines**: Multi-hop question answering
-- **Science**: Symbolic tools + models
-- **Legal/Finance**: Structured reasoning and auditability
-- **Medical**: Clinical diagnostic reasoning
 
 ---
 
@@ -108,7 +78,6 @@ LLMs are advancing from text generation to intelligent reasoning. This list aims
 - [HuggingFace Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open-llm-leaderboard)
 
 ---
-
 
 ### Contributors
 
