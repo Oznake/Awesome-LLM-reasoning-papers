@@ -5,6 +5,8 @@
 LLMs are advancing from text generation to intelligent reasoning. This list aims to collect key building blocks for understanding and improving reasoning in LLMs.
 
 ---
+📄 Read this in:
+[English](README.md) | [中文](README.zh.md)
 
 ## 📚 Table of Contents
 
