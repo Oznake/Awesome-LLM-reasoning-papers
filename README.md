@@ -103,12 +103,9 @@ LLMs are advancing from text generation to intelligent reasoning. This list aims
 
 ---
 
-## 🤝 Contribute
 
-Have something to add? Open a [pull request](https://github.com/YOUR_USERNAME/awesome-llm-reasoning/pulls) or file an [issue](https://github.com/YOUR_USERNAME/awesome-llm-reasoning/issues).
+### Contributors
 
----
-
-## 🪪 License
-
-This repository is licensed under [CC0 1.0 Universal](LICENSE) – public domain dedication.
+<a href="https://github.com/IngredientPreppers/Awesome-LLM-Reasoning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=IngredientPreppers/Awesome-LLM-Reasoning" />
+</a>
