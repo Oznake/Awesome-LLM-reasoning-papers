@@ -1,5 +1,9 @@
 # 🌟 Awesome LLM Reasoning
 
+<p align="center">
+  <img src="assets/banner.png" alt="LLM Reasoning Meme Banner" width="800"/>
+</p>
+
 > A curated list of resources on reasoning in Large Language Models (LLMs), including papers, methods, benchmarks, datasets, and tools.
 
 LLMs are advancing from text generation to intelligent reasoning. This list aims to collect key building blocks for understanding and improving reasoning in LLMs.
