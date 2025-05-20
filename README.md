@@ -1,7 +1,7 @@
 # 🌟 Awesome LLM Reasoning
 
 <p align="center">
-  <img src="assets/banner.png" alt="LLM Reasoning Meme Banner" width="800"/>
+  <img src="assets/banner.png" alt="LLM Reasoning Meme Banner" width="90%" style="align: center;"/> 
 </p>
 
 > A curated list of resources on reasoning in Large Language Models (LLMs), including papers, methods, benchmarks, datasets, and tools.
