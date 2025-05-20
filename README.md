@@ -6,3 +6,9 @@
   <b> A curacted list of LLM/MLLM Reasoning papers from zero to hero. </b>
 </p>
 
+# Math Reasoning
+
+
+# Code Reasoning
+
+# Theorem proving
